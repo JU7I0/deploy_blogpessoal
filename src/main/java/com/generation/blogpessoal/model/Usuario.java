@@ -47,7 +47,7 @@ public class Usuario {
 	private List<Postagem> postagem;
 
 	
-	public Usuario(Long id, String nome, String foto, String usuario, String senha, String tipo) {
+	public Usuario(Long id, String nome, String foto, String usuario, String senha) {
 		this.id = id;
 		this.nome = nome;
 		this.foto = foto;
