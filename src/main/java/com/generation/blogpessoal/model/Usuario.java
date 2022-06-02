@@ -53,7 +53,6 @@ public class Usuario {
 		this.foto = foto;
 		this.usuario = usuario;
 		this.senha = senha;
-		this.tipo = tipo;
 	}
 		
 	public Usuario() { }
